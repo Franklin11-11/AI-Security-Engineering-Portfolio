@@ -1,0 +1,2 @@
+AI Security Engineering - Day 2
+Linux file management and permissions practice.

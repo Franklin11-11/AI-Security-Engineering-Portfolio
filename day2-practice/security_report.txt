@@ -1,0 +1,17 @@
+AI SECURITY LOG ANALYSIS REPORT
+===================================
+Report generated: 2026-11-14 22:20:16.723963
+
+IP Address: 192.168.1.25
+Failed Attempts: 4
+STATUS: Below alert threshold
+
+IP Address: 10.0.0.8
+Failed Attempts: 5
+STATUS: ALERT - Suspicious activity
+
+SECURITY SUMMARY
+--------------------
+Total failed login attempts: 9
+Unique IP addresses: 2
+IP addresses triggering alerts: 1
